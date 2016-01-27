@@ -1,5 +1,9 @@
 <!-- Header -->
-<header id="header" class="alt">
-	<h1><a href="{{ .Site.BaseUrl }}">{{ .Site.Title }}</a></h1>
-	{{ partial "nav-main.html" .}}
-</header>
+<div id="header">
+	<!-- Logo -->
+		<h1 class="logo"><a href="index.html" id="logo">THE HILL <em>Sound Studio</em></a></h1>
+	<!-- Nav -->
+		<nav id="nav">
+			{{ partial "nav-main.html" .}}
+		</nav>
+</div>
