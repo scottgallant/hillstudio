@@ -4,7 +4,7 @@
         <title>{{ .Title }}</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="The Hill Sound Studio is a full service Audio Production company based in Prince Edward Island, Canada.">
+        <meta name="description" content="{{.Site.Params.description}}">
         <meta name="keywords" content="{{ range $index, $element := .Keywords }}{{ if gt $index 0 }},{{ end }}{{ . }}{{ else }}{{ .Site.Params.defaultKeywords }}{{ end }}">
         <!--[if lte IE 8]><script src="{{ .Site.BaseURL }}/js/ie/html5shiv.js"></script><![endif]-->
         <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/main.css" />

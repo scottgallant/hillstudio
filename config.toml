@@ -3,4 +3,15 @@ languagecode = "en-us"
 title = "The Hill Sound Studio"
 [params]
   description = "The Hill Sound Studio is a full service Audio Production company based in Prince Edward Island, Canada."
-  author = "Adam Gallant"
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "Team"
+url = "/team"
+weight = 2
+[[menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 3
