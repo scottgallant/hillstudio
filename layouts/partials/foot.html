@@ -1,0 +1,42 @@
+<!--
+    <ul class="footer-nav">
+        {{ with .Site.Params.github }}<li class="nav-item"><a href="{{ . }}">Github</a></li>{{ end }}
+        {{ with .Site.Params.linkedin }}<li class="nav-item"><a href="{{ . }}">LinkedIn</a></li>{{ end }}
+        {{ with .Site.Params.twitter }}<li class="nav-item"><a href="{{ . }}">Twitter</a></li>{{ end }}
+    </ul>
+ -->
+<!-- Footer -->
+      <footer id="footer">
+        <div class="inner">
+          <p class="copyright">{{.Site.Data.footer.site_footer.copyright}}</p>
+          <p class="copyright">{{.Site.Data.footer.site_footer.description}}</p>
+          <ul class="menu">
+            <li><a href="{{ .Site.BaseUrl}}">Bashaw United Church</a></li>
+          </ul>
+        </div>
+      </footer>
+
+      <div class="spinner">
+        <div class="bounce1"></div>
+        <div class="bounce2"></div>
+        <div class="bounce3"></div>
+      </div>
+
+    <!-- Scripts -->
+      <script src="/js/jquery.dropotron.min.js"></script>
+      <script src="/js/jquery.scrollex.min.js"></script>
+      <script src="/js/skel.min.js"></script>
+      <script src="/js/jquery.fitvids.js"></script>
+      <script src="/js/util.js"></script>
+      <!--[if lte IE 8]><script src="/js/ie/respond.min.js"></script><![endif]-->
+      <script src="/js/main.js"></script>
+    {{ with .Site.Params.googleAnalytics }}
+      <script>
+        var _gaq=[['_setAccount','{{ . }}'],['_trackPageview']];
+        (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+        g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+        s.parentNode.insertBefore(g,s)}(document,'script'));
+      </script>
+    {{ end }}
+  </body>
+</html>
