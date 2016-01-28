@@ -1,7 +1,3 @@
-image = "banner.jpg"
 big_text = "The Hill Sound Studio is a full service Audio Production company based in Prince Edward Island, Canada."
-sub_text = """
-Our focus is on excellent audio and great client relations.
-
-Our services include music production, location audio, post audio production for video, games, mobile applications and more.
-"""
+image = "banner.jpg"
+sub_text = "Our focus is on excellent audio and great client relations.\n\nOur services include music production, location audio, post audio production for video, games, mobile applications and more.\n"
