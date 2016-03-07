@@ -3224,3 +3224,7 @@
 		#titleBar {
 			background-image: none;
 		}
+
+.text-page img {
+	max-width: 100%;
+}
