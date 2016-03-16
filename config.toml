@@ -1,17 +1,14 @@
 baseurl = "http://thehillsoundstudio.com"
 languagecode = "en-us"
+pluralizelisttitles = false
 title = "The Hill Sound Studio"
 [[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
-[[menu.main]]
-name = "Team"
-url = "/team"
-weight = 2
-[[menu.main]]
-name = "Contact"
-url = "/contact"
-weight = 3
 [params]
 description = "The Hill Sound Studio is a full service Audio Production company based in Prince Edward Island, Canada."
+[sitemap]
+ChangeFreq = ""
+Filename = "sitemap.xml"
+Priority = "-1"
