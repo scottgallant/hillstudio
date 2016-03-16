@@ -4,31 +4,9 @@
   <header></header>
 </section>
 <!-- Highlights -->
-<section class="wrapper style1">
+<section class="wrapper text-page">
   <div class="container">
-    <div class="row 200%">
-      {{ range .Params.images }}
-        <section class="3u 12u(narrower)">
-          <div class="box highlight">
-            <div class="headshot">
-              <img src="{{ .Site.BaseURL }}/images/{{ .img }}" alt="{{ .caption }}">
-            </div>
-            <h3>{{ .name }}</h3>
-            <p>{{ .caption | markdownify }}</p>
-          </div>
-        </section>
-      {{end}}
-    </div>
-  </div>
-</section>
-
-<!-- Gigantic Heading -->
-<section class="wrapper style2">
-  <div class="container">
-    <header class="major">
-      <p>Instagram <a href="https://www.instagram.com/thehillsoundstudio/">@thehillsoundstudio</a></p>
-      <script src="http://instansive.com/widget/js/instansive.js"></script><iframe src="http://instansive.com/widgets/0170480bd2475f4980bc38d85e287e0b.html" id="instansive_0170480bd2" name="instansive_0170480bd2"  scrolling="no" allowtransparency="true" class="instansive-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
-    </header>
+    {{ .Content }}
   </div>
 </section>
 
