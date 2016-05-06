@@ -6,6 +6,10 @@ title = "The Hill Sound Studio"
 name = "Home"
 url = "/"
 weight = 1
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
 [params]
 description = "The Hill Sound Studio is a full service Audio Production company based in Prince Edward Island, Canada."
 [sitemap]
