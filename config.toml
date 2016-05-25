@@ -2,6 +2,8 @@ baseurl = "http://thehillsoundstudio.com"
 languagecode = "en-us"
 pluralizelisttitles = false
 title = "The Hill Sound Studio"
+[indexes]
+tag = "tags"
 [[menu.main]]
 name = "Home"
 url = "/"
