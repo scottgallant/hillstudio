@@ -2,7 +2,7 @@
 {{ partial "top.html" . }}
 
 <!-- Banner -->
-<section id="banner" style="background-image: url('/images/{{.Site.Data.homepage.message.image}}')">
+<section id="banner" style="background-image: url('{{ .Site.BaseURL }}/assets/images/{{.Site.Data.homepage.message.image}}')">
   <header></header>
 </section>
 

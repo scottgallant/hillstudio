@@ -3114,7 +3114,7 @@
 
 	/* Scott's CSS */
 	.logo {
-		background-image: url('/images/logo.png');
+		background-image: url('/assets/images/logo.png');
     text-indent: -99999px;
     overflow: hidden;
     background-position: 50%;
