@@ -11,10 +11,12 @@
         <section class="4u 12u(narrower)">
           <div class="box highlight">
             <div class="headshot">
-              <img src="{{ .Site.BaseURL }}/images/{{ .img }}" alt="{{ .caption }}">
+              <img src="{{ .Site.BaseURL }}/images/{{ .img }}" alt="{{ if isset . "caption" }}{{ .caption | markdownify }}{{ end }}">
             </div>
             <h3>{{ .name }}</h3>
-            <p>{{ .caption | markdownify }}</p>
+            {{ if isset . "caption" }}
+              <p>{{ .caption | markdownify }}</p>
+            {{ end }}
           </div>
         </section>
       {{end}}
