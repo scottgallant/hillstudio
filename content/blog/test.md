@@ -6,4 +6,4 @@ tags = []
 title = "TEST"
 
 +++
-Test,
+Here is a test of the blog function.
