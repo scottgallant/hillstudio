@@ -1,9 +1,9 @@
 +++
 date = "2016-11-27T00:00:00-04:00"
 draft = false
+excerpt = "Hello, and welcome to our blog!  My name is Adam and I am the owner and operator of The Hill Sound Studio."
 image = "/forestryio/images/Adam_Harmony-1.jpg"
 tags = []
-excerpt = "Hello, and welcome to our blog!  My name is Adam and I am the owner and operator of The Hill Sound Studio."
 title = "Welcome"
 
 +++
