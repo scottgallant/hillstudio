@@ -3,11 +3,11 @@
 <!-- Highlights -->
 <section class="wrapper style1">
   <div class="container">
-    <div class="row 100%">
+    <div class="row 100% blog-post">
 			{{ range .Data.Pages }}
-      <a href="{{ .Permalink }}" style="width: 100%; background-image: url(/forestryio/images/Adam_Harmony-1.jpg); background-size: cover; height: 300px; background-position-y: 50%;"></a>
-			  <h2 style="padding: 0; margin-bottom: 0;"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-        <p style="width: 100%; padding: 0;">{{ .Params.excerpt }} <br><a href="{{ .Permalink }}">Read more</a></p>
+      <a href="{{ .Permalink }}" class="post-image" style="background-image: url(/forestryio/images/Adam_Harmony-1.jpg);"></a>
+			  <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <p>{{ .Params.excerpt }} <br><a href="{{ .Permalink }}">Read more</a></p>
 			{{ end }}
 		</div>
   </div>

@@ -3220,3 +3220,18 @@
 .text-page img {
 	max-width: 100%;
 }
+
+.blog-post .post-image {
+width: 100%;
+background-size: cover;
+height: 300px;
+background-position-y: 50%;
+}
+
+.blog-post h2 {
+padding: 0; margin-bottom: 0;
+}
+
+.blog-post p {
+width: 100%; padding: 0;
+}
