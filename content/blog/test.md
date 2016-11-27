@@ -1,7 +1,7 @@
 +++
 date = "2016-11-27T00:00:00-04:00"
 draft = false
-image = ""
+image = "/forestryio/images/Adam_Harmony-1.jpg"
 tags = []
 title = "Welcome"
 
