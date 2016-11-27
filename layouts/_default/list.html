@@ -1,14 +1,12 @@
 {{ partial "head.html" . }}
 {{ partial "top.html" . }}
-<section id="banner" style="background-image: url('{{ .Site.BaseURL }}/assets/images/{{.Site.Data.homepage.message.image}}')">
-  <header></header>
-</section>
 <!-- Highlights -->
 <section class="wrapper style1">
   <div class="container">
-    <div class="row 200%">
+    <div class="row 100%">
 			{{ range .Data.Pages }}
-			  <a href="{{ .Permalink }}">{{ .Title }}</a>
+      <a href="{{ .Permalink }}" style="width: 100%; background-image: url(/forestryio/images/Adam_Harmony-1.jpg); background-size: cover; height: 300px; background-position-y: 50%;"></a>
+			  <h2 style="padding: 0;"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
 			{{ end }}
 		</div>
   </div>
