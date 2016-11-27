@@ -7,7 +7,7 @@ tag = "tags"
 [[menu.main]]
 name = "Home"
 url = "/"
-weight = 1
+weight = 0
 [[menu.main]]
 name = "Home"
 url = "/"
