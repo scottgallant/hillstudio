@@ -4,8 +4,5 @@ draft = false
 image = ""
 title = "About us"
 type = "default"
-[menu.main]
-url = ""
-weight = 1
 
 +++
