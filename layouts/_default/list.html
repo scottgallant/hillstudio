@@ -1,14 +1,17 @@
 {{ partial "head.html" . }}
 {{ partial "top.html" . }}
 <!-- Highlights -->
-<section class="wrapper style1">
+<section class="wrapper style1 narrow-page list-page">
   <div class="container">
     <div class="row 100% blog-post">
-			{{ range .Data.Pages }}
-      <a href="{{ .Permalink }}" class="post-image" style="background-image: url('{{ .Site.BaseURL }}{{ .Params.image }}')"></a>
-			  <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-        <p>{{ .Params.excerpt }} <br><a href="{{ .Permalink }}">Read more</a></p>
-			{{ end }}
+      <section class="12u">
+        {{ range .Data.Pages }}
+
+  			  <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          <p>{{ .Params.excerpt }}</p>
+          <a href="{{ .Permalink }}">Read more</a></p>
+  			{{ end }}
+      </section>
 		</div>
   </div>
 </section>

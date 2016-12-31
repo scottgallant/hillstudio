@@ -3221,6 +3221,22 @@
 	max-width: 100%;
 }
 
+.text-page.wrapper, .list-page.wrapper {
+	padding: 2em 0 1em 0;
+}
+
+.narrow-page > .container {
+	max-width: 800px;
+}
+
+.list-page .blog-post h2 {
+	margin-top: 1em;
+}
+
+.list-page .blog-post p {
+	margin-bottom: .5em;
+}
+
 .blog-post .post-image {
 width: 100%;
 background-size: cover;
