@@ -7,9 +7,7 @@ tags = []
 title = "2016 in Review"
 
 +++
-2016 in review!
-
-The studio took part in so many amazing projects this year!  Most notably:
+<span style="letter-spacing: 0.01em;">The studio took part in so many amazing projects this year!  Most notably:</span>
 
 Paper Lions:  Full Color - Produced by Colin Buchanan and the band, an amazing album!
 
