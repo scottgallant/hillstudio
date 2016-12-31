@@ -5,7 +5,7 @@
   <div class="container">
     <div class="row 100% blog-post">
 			{{ range .Data.Pages }}
-      <a href="{{ .Permalink }}" class="post-image" style="background-image: url(/forestryio/images/Adam_Harmony-1.jpg);"></a>
+      <a href="{{ .Permalink }}" class="post-image" style="background-image: url('{{ .Site.BaseURL }}{{ .Params.image }}')"></a>
 			  <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
         <p>{{ .Params.excerpt }} <br><a href="{{ .Permalink }}">Read more</a></p>
 			{{ end }}
