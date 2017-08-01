@@ -1,0 +1,25 @@
+---
+pages:
+- about-us.md
+hide_body: false
+fields:
+- name: title
+  default: ''
+  label: Title
+  hidden: false
+  type: text
+- name: date
+  default: ''
+  label: Date
+  hidden: false
+  type: datetime
+- name: draft
+  default: false
+  label: Draft
+  hidden: false
+  type: boolean
+- name: image
+  default: ''
+  label: Image
+  hidden: false
+  type: text
