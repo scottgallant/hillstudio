@@ -7,3 +7,7 @@ tags = []
 title = "Equipment Reviews"
 
 +++
+
+
+Hey hey!  Have a look at three great equipment reviews written by Adam Gallant in this month's issue of Professional Sound Magazine:  http://joom.ag/WaeL/p22
+
