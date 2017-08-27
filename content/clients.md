@@ -10,7 +10,7 @@ weight = 4
 [[clients]]
 link = "https://wearecoyote.bandcamp.com/"
 name = "Coyote"
-thumbnail = "/forestryio/images/coyote nights.png"
+thumbnail = "/forestryio/images/coyotenights_higherres.png"
 [[clients]]
 link = "https://itunes.apple.com/ca/album/full-colour/id1147407727"
 name = "Paper Lions"
