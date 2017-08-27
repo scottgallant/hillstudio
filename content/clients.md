@@ -4,6 +4,9 @@ draft = true
 type = "clients"
 image = ""
 title = "Clients"
+[menu.main]
+name = "Clientele"
+weight = 5
 
 +++
 <a href="https://www.paperlions.com/">Paper Lions</a>

@@ -1,0 +1,22 @@
+---
+hide_body: true
+fields:
+- type: field_group_list
+  name: clients
+  label: Clients
+  fields:
+  - type: text
+    name: name
+    label: Name
+    config:
+      required: true
+  - type: file
+    name: thumbnail
+    label: Thumbnail
+    description: Ideally 200 x 200 pixels • Max file size = 1MB
+    config:
+      maxSize: '1'
+  - type: text
+    name: link
+    label: Link
+    description: Paste the link WITH the https:// part
