@@ -5,19 +5,19 @@ fields:
   default: ''
   label: Title
   hidden: false
-  type: text
+  type: boolean
 - name: date
   default: ''
   label: Date
   hidden: false
-  type: datetime
+  type: boolean
 - name: type
   default: text-page
   label: Type
   hidden: false
-  type: text
+  type: boolean
 - name: image
   default: ''
   label: Image
   hidden: false
-  type: text
+  type: boolean
