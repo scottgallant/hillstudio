@@ -12,10 +12,6 @@ link = "https://sorrey.bandcamp.com/"
 name = "Sorrey"
 thumbnail = "/forestryio/images/sorrey.png"
 [[clients]]
-link = "https://goldencinema.bandcamp.com/releases"
-name = "Golden Cinema"
-thumbnail = "/forestryio/images/golden cinema.png"
-[[clients]]
 link = "https://itunes.apple.com/ca/album/full-colour/id1147407727"
 name = "Paper Lions"
 thumbnail = "/forestryio/images/full color.png"
@@ -32,6 +28,10 @@ link = "http://www.kinleymusic.com/"
 name = "Kinley Dowling"
 thumbnail = "/forestryio/images/KD _lns.png"
 [[clients]]
+link = "https://wearecoyote.bandcamp.com/"
+name = "Coyote"
+thumbnail = "/forestryio/images/coyotenights_higherres.png"
+[[clients]]
 link = "http://www.imdb.com/title/tt6470382/?ref_=fn_al_tt_1"
 name = "Saltwater Films"
 thumbnail = "/forestryio/images/bftsimg.png"
@@ -40,9 +40,9 @@ link = "https://itunes.apple.com/ca/album/everyone-needs-to-chill-out/id12414123
 name = "Dennis Ellsworth & Kinley Dowling"
 thumbnail = "/forestryio/images/dennis and kinley.png"
 [[clients]]
-link = "https://wearecoyote.bandcamp.com/"
-name = "Coyote"
-thumbnail = "/forestryio/images/coyotenights_higherres.png"
+link = "https://goldencinema.bandcamp.com/releases"
+name = "Golden Cinema"
+thumbnail = "/forestryio/images/golden cinema.png"
 [[clients]]
 link = "https://altuckmusic.bandcamp.com/"
 name = "Al Tuck"
