@@ -8,6 +8,10 @@ type = "clients"
 name = "Clientele"
 weight = 4
 [[clients]]
+link = "https://play.google.com/store/apps/details?id=com.icejam.QuriusGame&hl=en"
+name = "icejam games"
+thumbnail = "/forestryio/images/qurius.png"
+[[clients]]
 link = "https://wearecoyote.bandcamp.com/"
 name = "Coyote"
 thumbnail = "/forestryio/images/coyotenights_higherres.png"
