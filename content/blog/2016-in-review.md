@@ -1,6 +1,5 @@
 +++
 date = "2016-12-30T14:44:11-05:00"
-draft = false
 excerpt = ""
 image = "/forestryio/images/2M3A1063-4.JPG"
 tags = []
