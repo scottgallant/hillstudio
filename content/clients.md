@@ -8,9 +8,9 @@ type = "clients"
 name = "Clientele"
 weight = 4
 [[clients]]
-link = "http://www.imdb.com/title/tt6470382/?ref_=fn_al_tt_1"
-name = "Saltwater Films"
-thumbnail = "/forestryio/images/bftsimg.png"
+link = "https://goldencinema.bandcamp.com/releases"
+name = "Golden Cinema"
+thumbnail = "/forestryio/images/golden cinema.png"
 [[clients]]
 link = "https://itunes.apple.com/ca/album/full-colour/id1147407727"
 name = "Paper Lions"
@@ -27,6 +27,10 @@ thumbnail = "/forestryio/images/qurius.png"
 link = "http://www.kinleymusic.com/"
 name = "Kinley Dowling"
 thumbnail = "/forestryio/images/KD _lns.png"
+[[clients]]
+link = "http://www.imdb.com/title/tt6470382/?ref_=fn_al_tt_1"
+name = "Saltwater Films"
+thumbnail = "/forestryio/images/bftsimg.png"
 [[clients]]
 link = "https://itunes.apple.com/ca/album/everyone-needs-to-chill-out/id1241412310"
 name = "Dennis Ellsworth & Kinley Dowling"
