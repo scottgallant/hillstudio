@@ -12,6 +12,10 @@ link = "http://www.kinleymusic.com/"
 name = "Kinley Dowling"
 thumbnail = "/forestryio/images/KD _lns.png"
 [[clients]]
+link = "https://loganrichard1.bandcamp.com/releases"
+name = "Logan Richard"
+thumbnail = "/forestryio/images/thestart.png"
+[[clients]]
 link = "https://itunes.apple.com/ca/album/full-colour/id1147407727"
 name = "Paper Lions"
 thumbnail = "/forestryio/images/full color.png"
