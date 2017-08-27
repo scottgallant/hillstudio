@@ -8,12 +8,12 @@ fields:
   default: ''
   label: Title
   hidden: false
-  type: text
+  type: boolean
 - name: date
   default: ''
   label: Date
   hidden: false
-  type: datetime
+  type: boolean
 - name: draft
   default: false
   label: Draft
@@ -23,4 +23,4 @@ fields:
   default: ''
   label: Image
   hidden: false
-  type: text
+  type: boolean

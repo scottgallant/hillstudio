@@ -5,24 +5,24 @@ fields:
   default: ''
   label: Title
   hidden: false
-  type: text
+  type: boolean
 - name: date
   default: ''
   label: Date
   hidden: false
-  type: datetime
+  type: boolean
 - name: tags
   default: []
   label: Tags
   hidden: false
-  type: tag_list
+  type: boolean
 - name: image
   default: ''
   label: Image
   hidden: false
-  type: file
+  type: boolean
 - name: excerpt
   default: ''
   label: Excerpt
   hidden: false
-  type: textarea
+  type: boolean
