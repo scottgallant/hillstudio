@@ -8,6 +8,10 @@ type = "clients"
 name = "Clientele"
 weight = 4
 [[clients]]
+link = "https://wearecoyote.bandcamp.com/"
+name = "Coyote"
+thumbnail = "/forestryio/images/coyote nights.png"
+[[clients]]
 link = "https://itunes.apple.com/ca/album/full-colour/id1147407727"
 name = "Paper Lions"
 thumbnail = "/forestryio/images/full color.png"
