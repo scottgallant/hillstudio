@@ -1,0 +1,37 @@
+{{ partial "head.html" . }}
+{{ partial "top.html" . }}
+<section id="banner" style="background-image: url('{{ .Site.BaseURL }}{{ .Params.image }}')">
+  <header></header>
+</section>
+<!-- Highlights -->
+<section class="wrapper style1">
+  <div class="container">
+    <div class="row 200%">
+      {{ range .Params.images }}
+        <section class="4u 12u(narrower)">
+          <div class="box highlight">
+            <div class="headshot">
+              <img src="{{ .Site.BaseURL }}{{ .img }}" alt="{{ if isset . "caption" }}{{ .caption | markdownify }}{{ end }}">
+            </div>
+            <h3>{{ .name }}</h3>
+            {{ if isset . "caption" }}
+              <p>{{ .caption | markdownify }}</p>
+            {{ end }}
+          </div>
+        </section>
+      {{end}}
+    </div>
+  </div>
+</section>
+
+<!-- Gigantic Heading -->
+<section class="wrapper style2">
+  <div class="container">
+    <header class="major">
+      <p>Instagram <a href="https://www.instagram.com/thehillsoundstudio/">@thehillsoundstudio</a></p>
+      <script src="http://instansive.com/widget/js/instansive.js"></script><iframe src="http://instansive.com/widgets/0170480bd2475f4980bc38d85e287e0b.html" id="instansive_0170480bd2" name="instansive_0170480bd2"  scrolling="no" allowtransparency="true" class="instansive-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+    </header>
+  </div>
+</section>
+
+{{ partial "foot.html" . }}
