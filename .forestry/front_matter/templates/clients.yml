@@ -3,6 +3,13 @@ pages:
 - clients.md
 hide_body: true
 fields:
+- type: text
+  label: Title
+  name: title
+- type: file
+  label: Banner image
+  name: banner_image
+  description: This is the big banner image thingy
 - type: field_group_list
   name: clients
   label: Clients
