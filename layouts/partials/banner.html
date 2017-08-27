@@ -1,0 +1,7 @@
+{{ if (not (isset .Params "image")) | or (eq .Params.image "") }}
+  <!--  do nothing -->
+{{ else }}
+  <section id="banner" style="background-image: url('{{ .Site.BaseURL }}{{ .Params.image }}')">
+    <header></header>
+  </section>
+{{ end }}
