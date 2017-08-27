@@ -8,6 +8,10 @@ name = "Clientele"
 weight = 5
 [[clients]]
 link = "https://google.com"
+name = "Adam Perry"
+thumbnail = "/forestryio/images/dodge-small.jpg"
+[[clients]]
+link = "https://google.com"
 name = "Paper Lions"
 thumbnail = "/forestryio/images/equipment.jpg"
 
