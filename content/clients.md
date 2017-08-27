@@ -1,4 +1,5 @@
 +++
+banner_image = "/forestryio/images/IMG_20161120_174208.jpg"
 date = "2017-08-01T08:08:59-03:00"
 image = ""
 title = "Clients"
