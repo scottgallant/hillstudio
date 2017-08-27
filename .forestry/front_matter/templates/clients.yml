@@ -1,4 +1,6 @@
 ---
+pages:
+- clients.md
 hide_body: true
 fields:
 - type: field_group_list
