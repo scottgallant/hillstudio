@@ -8,14 +8,6 @@ type = "clients"
 name = "Clientele"
 weight = 4
 [[clients]]
-link = "https://play.google.com/store/apps/details?id=com.icejam.QuriusGame&hl=en"
-name = "icejam games"
-thumbnail = "/forestryio/images/qurius.png"
-[[clients]]
-link = "https://wearecoyote.bandcamp.com/"
-name = "Coyote"
-thumbnail = "/forestryio/images/coyotenights_higherres.png"
-[[clients]]
 link = "https://itunes.apple.com/ca/album/full-colour/id1147407727"
 name = "Paper Lions"
 thumbnail = "/forestryio/images/full color.png"
@@ -24,6 +16,10 @@ link = "https://loganrichard1.bandcamp.com/releases"
 name = "Logan Richard"
 thumbnail = "/forestryio/images/thestart.png"
 [[clients]]
+link = "https://play.google.com/store/apps/details?id=com.icejam.QuriusGame&hl=en"
+name = "icejam games"
+thumbnail = "/forestryio/images/qurius.png"
+[[clients]]
 link = "http://www.kinleymusic.com/"
 name = "Kinley Dowling"
 thumbnail = "/forestryio/images/KD _lns.png"
@@ -31,6 +27,10 @@ thumbnail = "/forestryio/images/KD _lns.png"
 link = "https://itunes.apple.com/ca/album/everyone-needs-to-chill-out/id1241412310"
 name = "Dennis Ellsworth & Kinley Dowling"
 thumbnail = "/forestryio/images/dennis and kinley.png"
+[[clients]]
+link = "https://wearecoyote.bandcamp.com/"
+name = "Coyote"
+thumbnail = "/forestryio/images/coyotenights_higherres.png"
 
 +++
 
