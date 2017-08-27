@@ -8,9 +8,9 @@ type = "clients"
 name = "Clientele"
 weight = 4
 [[clients]]
-link = "https://altuckmusic.bandcamp.com/"
-name = "Al Tuck"
-thumbnail = "/forestryio/images/al tuck-1.png"
+link = "https://sorrey.bandcamp.com/"
+name = "Sorrey"
+thumbnail = "/forestryio/images/sorrey.png"
 [[clients]]
 link = "https://goldencinema.bandcamp.com/releases"
 name = "Golden Cinema"
@@ -43,6 +43,10 @@ thumbnail = "/forestryio/images/dennis and kinley.png"
 link = "https://wearecoyote.bandcamp.com/"
 name = "Coyote"
 thumbnail = "/forestryio/images/coyotenights_higherres.png"
+[[clients]]
+link = "https://altuckmusic.bandcamp.com/"
+name = "Al Tuck"
+thumbnail = "/forestryio/images/al tuck-1.png"
 
 +++
 
