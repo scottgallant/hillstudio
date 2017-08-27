@@ -6,21 +6,18 @@
 <!-- Highlights -->
 <section class="wrapper style1">
   <div class="container">
+    {{ range .Params.clients }}
     <div class="row 200%">
-      {{ range .Params.images }}
-        <section class="4u 12u(narrower)">
-          <div class="box highlight">
-            <div class="headshot">
-              <img src="{{ .Site.BaseURL }}{{ .img }}" alt="{{ if isset . "caption" }}{{ .caption | markdownify }}{{ end }}">
-            </div>
-            <h3>{{ .name }}</h3>
-            {{ if isset . "caption" }}
-              <p>{{ .caption | markdownify }}</p>
-            {{ end }}
-          </div>
+        <div class="4u 12u(narrower)"></div>
+        <section class="2u 5u(narrower)">
+          <a href="{{ .link }}" style="border: none;"><img src="{{ .thumbnail }}" alt="" style="max-width: 150px;"></a>
         </section>
-      {{end}}
+        <section class="2u 7u(narrower)">
+          <h3><a href="{{ .link }}">{{ .name }}</a></h3>
+        </section>
+        <div class="4u 12u(narrower)"></div>
     </div>
+    {{end}}
   </div>
 </section>
 
