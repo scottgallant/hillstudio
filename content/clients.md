@@ -1,7 +1,7 @@
 +++
 banner_image = "/forestryio/images/IMG_20161120_174208.jpg"
 date = "2017-08-01T08:08:59-03:00"
-image = ""
+image = "/forestryio/images/the_hill_keys_for_clients_page.png"
 title = "Clients"
 type = "clients"
 [menu.main]
@@ -14,7 +14,7 @@ thumbnail = "/forestryio/images/KD _lns.jpg"
 [[clients]]
 link = "https://itunes.apple.com/ca/album/full-colour/id1147407727"
 name = "Paper Lions"
-thumbnail = "/forestryio/images/equipment.jpg"
+thumbnail = "/forestryio/images/full color.png"
 
 +++
 
