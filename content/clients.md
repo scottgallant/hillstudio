@@ -19,6 +19,10 @@ thumbnail = "/forestryio/images/thestart.png"
 link = "http://www.kinleymusic.com/"
 name = "Kinley Dowling"
 thumbnail = "/forestryio/images/KD _lns.png"
+[[clients]]
+link = "https://itunes.apple.com/ca/album/everyone-needs-to-chill-out/id1241412310"
+name = "Dennis Ellsworth & Kinley Dowling"
+thumbnail = "/forestryio/images/dennis and kinley.png"
 
 +++
 
