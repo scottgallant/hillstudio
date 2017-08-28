@@ -3,20 +3,21 @@
 {{ partial "banner.html" . }}
 
 <!-- Highlights -->
-<section class="wrapper style1">
+<section class="wrapper style1 narrow-page">
   <div class="container">
-    {{ range .Params.clients }}
-    <div class="row 200%">
-        <div class="4u 12u(narrower)"></div>
-        <section class="2u 5u(narrower)">
-          <a href="{{ .link }}" style="border: none;"><img src="{{ .thumbnail }}" alt="" style="max-width: 150px;"></a>
+
+    <div class="row 200% client-list">
+{{ range .Params.clients }}
+        <section class="4u 12u(narrower) client">
+          <a href="{{ .link }}"><img src="{{ .thumbnail }}" alt=""></a>
+          <h3 style="font-size: 1em; white-space: nowrap; text-overflow: ellipsis; overflow: hidden;"><a href="{{ .link }}">{{ .name }}</a></h3>
         </section>
-        <section class="2u 7u(narrower)">
-          <h3><a href="{{ .link }}">{{ .name }}</a></h3>
-        </section>
-        <div class="4u 12u(narrower)"></div>
+        <!-- <section class="3u 7u(narrower)">
+
+        </section> -->
+{{end}}
     </div>
-    {{end}}
+
   </div>
 </section>
 

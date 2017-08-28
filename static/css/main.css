@@ -3251,3 +3251,18 @@ padding: 0; margin-bottom: 0;
 .blog-post p {
 width: 100%; padding: 0;
 }
+
+
+/* Clients page */
+
+.client-list .client:nth-child(3n-2) {
+	clear: both;
+}
+
+.client > a {
+	border: none;
+}
+
+.client a img {
+	width: 100%;
+}
