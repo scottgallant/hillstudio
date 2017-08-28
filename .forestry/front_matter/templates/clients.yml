@@ -3,29 +3,29 @@ pages:
 - clients.md
 hide_body: true
 fields:
-- type: boolean
+- type: text
   label: Title
   name: title
-- type: boolean
+- type: file
   label: Banner image
   name: image
   description: This is the big banner image thingy
-- type: boolean
+- type: field_group_list
   name: clients
   label: Clients
   fields:
-  - type: boolean
+  - type: text
     name: name
     label: Name
     config:
       required: true
-  - type: boolean
+  - type: file
     name: thumbnail
     label: Thumbnail
     description: Ideally 200 x 200 pixels • Max file size = 1MB
     config:
       maxSize: '1'
-  - type: boolean
+  - type: text
     name: link
     label: Link
     description: Paste the link WITH the https:// part

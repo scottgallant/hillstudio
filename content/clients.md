@@ -9,7 +9,7 @@ name = "Clientele"
 weight = 4
 [[clients]]
 link = "https://www.nfb.ca/film/island_green/"
-name = "The National Film Board"
+name = "The National Film Board "
 thumbnail = "/forestryio/images/NFB logo.png"
 [[clients]]
 link = "https://itunes.apple.com/ca/album/full-colour/id1147407727"
