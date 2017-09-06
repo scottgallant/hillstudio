@@ -44,6 +44,10 @@ link = "https://goldencinema.bandcamp.com/releases"
 name = "Golden Cinema"
 thumbnail = "/forestryio/images/golden cinema.png"
 [[clients]]
+link = "https://nickdoneff.bandcamp.com/"
+name = "Nick Doneff"
+thumbnail = "/forestryio/images/nick doneff-1.png"
+[[clients]]
 link = "http://www.imdb.com/title/tt6470382/?ref_=fn_al_tt_1"
 name = "Saltwater Films"
 thumbnail = "/forestryio/images/bftsimg.png"
