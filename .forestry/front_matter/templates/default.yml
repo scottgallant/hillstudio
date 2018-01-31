@@ -1,5 +1,6 @@
 ---
 pages:
+- equipment.md
 - about-us.md
 hide_body: false
 fields:
