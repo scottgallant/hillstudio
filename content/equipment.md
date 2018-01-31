@@ -1,6 +1,5 @@
 +++
 date = "2018-01-31T12:27:01-04:00"
-draft = true
 image = "/static/forestryio/images/equipment.jpg"
 title = "Equipment and Space"
 
