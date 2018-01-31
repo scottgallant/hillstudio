@@ -4,7 +4,7 @@ image = "/static/forestryio/images/equipment.jpg"
 title = "Equipment and Space"
 [menu.main]
 name = "Equipment & Space"
-weight = 1
+weight = 4
 
 +++
 Our studios consist of two rooms, Studio A and B.  Both based out or our residence in downtown Charlottetown, PEI.  

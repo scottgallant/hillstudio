@@ -6,7 +6,7 @@ title = "Clients"
 type = "clients"
 [menu.main]
 name = "Clientele"
-weight = 4
+weight = 5
 [[clients]]
 link = "https://www.nfb.ca/film/island_green/"
 name = "The National Film Board "
