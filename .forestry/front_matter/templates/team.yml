@@ -36,8 +36,11 @@ fields:
   - type: file
     name: img
     label: Profile Image
-  - type: text
+  - type: textarea
     name: caption
-    label: Caption
+    label: Bio
     config:
       required: true
+      wysiwyg: true
+      schema:
+        format: markdown
