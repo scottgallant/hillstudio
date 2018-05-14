@@ -2,6 +2,7 @@
 pages:
 - team.html
 hide_body: false
+is_partial: false
 fields:
 - name: title
   default: ''
@@ -23,3 +24,20 @@ fields:
   label: Image
   hidden: false
   type: file
+- type: field_group_list
+  label: images
+  name: images
+  fields:
+  - type: text
+    name: name
+    label: Name
+    config:
+      required: true
+  - type: file
+    name: img
+    label: Profile Image
+  - type: text
+    name: caption
+    label: Caption
+    config:
+      required: true

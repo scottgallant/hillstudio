@@ -2,6 +2,7 @@
 pages:
 - clients.md
 hide_body: true
+is_partial: false
 fields:
 - type: text
   label: Title
