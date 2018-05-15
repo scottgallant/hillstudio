@@ -12,12 +12,12 @@ fields:
 - name: date
   default: ''
   label: Date
-  hidden: false
+  hidden: true
   type: datetime
 - name: draft
   default: false
   label: Draft
-  hidden: false
+  hidden: true
   type: boolean
 - name: image
   default: ''
