@@ -2,9 +2,6 @@
 date = "2018-01-31T12:27:01-04:00"
 image = "/forestryio/images/dodge-small-copy2.png"
 title = "Equipment and Space"
-[menu.main]
-name = "Equipment & Space"
-weight = 4
 
 +++
 Our studios consist of two rooms, Studio A and B.  Both based out or our residence in downtown Charlottetown, PEI.
