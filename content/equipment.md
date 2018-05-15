@@ -1,6 +1,6 @@
 +++
 date = "2018-01-31T12:27:01-04:00"
-image = ""
+image = "/forestryio/images/dodge-small-copy2.png"
 title = "Equipment and Space"
 [menu.main]
 name = "Equipment & Space"
