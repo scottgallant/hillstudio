@@ -15,7 +15,7 @@ fields:
 - name: type
   default: text-page
   label: Type
-  hidden: false
+  hidden: true
   type: text
 - type: file
   name: image
