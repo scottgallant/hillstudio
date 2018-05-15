@@ -1,7 +1,7 @@
 +++
 date = "2017-08-03T09:55:56+00:00"
 excerpt = ""
-image = ""
+image = "/forestryio/images/equipment.jpg"
 tags = []
 title = "Equipment Reviews"
 
