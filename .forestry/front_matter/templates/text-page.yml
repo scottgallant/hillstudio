@@ -17,8 +17,6 @@ fields:
   label: Type
   hidden: false
   type: text
-- name: image
-  default: ''
+- type: file
+  name: image
   label: Image
-  hidden: false
-  type: text
