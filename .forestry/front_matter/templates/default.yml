@@ -20,8 +20,6 @@ fields:
   label: Draft
   hidden: false
   type: boolean
-- name: image
-  default: ''
+- type: file
+  name: image
   label: Image
-  hidden: false
-  type: text
