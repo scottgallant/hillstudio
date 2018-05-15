@@ -1,7 +1,7 @@
 +++
 date = "2017-08-03T09:55:56+00:00"
 excerpt = ""
-image = "/forestryio/images/equipment.jpg"
+image = "/forestryio/images/the_hill_keys_for_clients_page-2.png"
 tags = []
 title = "Equipment Reviews"
 
