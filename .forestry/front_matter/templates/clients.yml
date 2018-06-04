@@ -1,6 +1,4 @@
 ---
-pages:
-- clients.md
 hide_body: true
 is_partial: false
 fields:
@@ -30,3 +28,5 @@ fields:
     name: link
     label: Link
     description: Paste the link WITH the https:// part
+pages:
+- clients.md

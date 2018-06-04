@@ -1,7 +1,4 @@
 ---
-upload_path: "/static/forestryio/images"
-frontmatter_file_url_template: "/forestryio/images"
-body_file_url_template: "/forestryio/images"
 new_page_extension: md
 auto_deploy: true
 admin_path: "/admin"
@@ -9,4 +6,9 @@ webhook_url:
 sections:
   blog:
     default_front_matter_template: blog
+upload_dir: static/forestryio/images
+public_path: "/forestryio/images"
+front_matter_path: "/forestryio/images"
+use_front_matter_path: false
+file_template: ":filename:"
 version: '0.17'

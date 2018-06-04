@@ -1,6 +1,4 @@
 ---
-pages:
-- contact.html
 hide_body: false
 is_partial: false
 fields:
@@ -24,3 +22,5 @@ fields:
   label: Image
   hidden: false
   type: file
+pages:
+- contact.html

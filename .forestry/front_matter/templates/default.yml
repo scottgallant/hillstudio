@@ -1,7 +1,4 @@
 ---
-pages:
-- equipment.md
-- about-us.md
 hide_body: false
 is_partial: false
 fields:
@@ -23,3 +20,6 @@ fields:
 - type: file
   name: image
   label: Image
+pages:
+- equipment.md
+- about-us.md
