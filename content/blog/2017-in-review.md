@@ -15,4 +15,4 @@ Our studio also added some great hardware, including and SSL EQ strip, RME audio
 Looking forward to some exciting contracts and releases in 2018 by Sorrey, Dylan Menzie, Little Cities and many more!
 
 Best,  
-Adam Gallant .
+Adam Gallant
