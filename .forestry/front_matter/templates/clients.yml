@@ -1,6 +1,6 @@
 ---
+label: Clients
 hide_body: true
-is_partial: false
 fields:
 - type: text
   label: Title
@@ -29,4 +29,4 @@ fields:
     label: Link
     description: Paste the link WITH the https:// part
 pages:
-- clients.md
+- content/content/clients.md

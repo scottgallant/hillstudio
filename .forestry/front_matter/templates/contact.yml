@@ -1,6 +1,6 @@
 ---
+label: contact
 hide_body: false
-is_partial: false
 fields:
 - name: title
   default: ''
@@ -23,4 +23,4 @@ fields:
   hidden: false
   type: file
 pages:
-- contact.html
+- content/content/contact.html

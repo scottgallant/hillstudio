@@ -1,6 +1,6 @@
 ---
+label: team
 hide_body: false
-is_partial: false
 fields:
 - name: title
   default: ''
@@ -43,4 +43,4 @@ fields:
       schema:
         format: markdown
 pages:
-- team.html
+- content/content/team.html
