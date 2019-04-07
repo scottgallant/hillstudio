@@ -22,5 +22,3 @@ fields:
   label: Image
   hidden: false
   type: file
-pages:
-- content/content/contact.html

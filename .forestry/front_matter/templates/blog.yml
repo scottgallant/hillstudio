@@ -28,7 +28,7 @@ fields:
   hidden: false
   type: textarea
 pages:
-- content/blog/test.md
-- content/blog/equipment-reviews.md
-- content/blog/2017-in-review.md
 - content/blog/2016-in-review.md
+- content/blog/test.md
+- content/blog/2017-in-review.md
+- content/blog/equipment-reviews.md

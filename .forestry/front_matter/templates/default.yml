@@ -20,6 +20,3 @@ fields:
 - type: file
   name: image
   label: Image
-pages:
-- content/content/equipment.md
-- content/content/about-us.md

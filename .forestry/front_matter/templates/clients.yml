@@ -28,5 +28,3 @@ fields:
     name: link
     label: Link
     description: Paste the link WITH the https:// part
-pages:
-- content/content/clients.md
