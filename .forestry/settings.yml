@@ -10,10 +10,11 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/content
+  path: content
   label: Pages
   create: all
   match: "**/*"
+  exclude: blog/**/*
 - type: directory
   path: data
   label: Data
