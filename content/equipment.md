@@ -1,5 +1,5 @@
 +++
-date = "2018-01-31T12:27:01-04:00"
+date = 2018-01-31T16:27:01Z
 image = "/forestryio/images/dodge-small-copy2.png"
 title = "Equipment and Space"
 
@@ -8,6 +8,6 @@ Our studios consist of two rooms, Studio A and B.  Both based out or our residen
 
 Studio A is a three hundred and thirty square foot outbuilding on our property.  The room is acoustically treated and is equipped with a powerful Pro Tools suite, high end analogue to digital conversion and industry standard creative and restorative software tools.
 
-Our tracking setup is streamlined and designed with post flexibility in mind.  API preamps, Rupert Neve compression and SSL Equalization.  
+Our tracking setup is streamlined and designed with post flexibility in mind.  API preamps, Rupert Neve compression and SSL Equalization.
 
-Our Studio B room is equipped with an incredible Antelope Audio interface, acoustically treated with Prime Acoustic paneling and features a hundred year old Heinztman piano in perfection condition.
+Our Studio B room is equipped with an incredible Antelope Audio interface, acoustically treated with Prime Acoustic paneling and features a hundred year old Heinztman piano in perfection condition
