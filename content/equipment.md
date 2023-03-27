@@ -10,4 +10,4 @@ Studio A is a three hundred and thirty square foot outbuilding on our property. 
 
 Our tracking setup is streamlined and designed with post flexibility in mind.  API preamps, Rupert Neve compression and SSL Equalization.
 
-Our Studio B room is equipped with an incredible Antelope Audio interface, acoustically treated with Prime Acoustic paneling and features a hundred year old Heinztman piano in perfection condition
+Our Studio B room is equipped with an incredible Antelope Audio interface, acoustically treated with Prime Acoustic paneling and features a hundred year old Heinztman piano in perfection condition.
